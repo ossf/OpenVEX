@@ -35,7 +35,7 @@
 
 *   Official communications occur on the [ADD LINK TO YOUR WG MAILING LIST] (ex: https://lists.openssf.org/g/openssf-tac/topics).  \
 [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
-*   [Add Slack information if availabable]
+*   [Slack Channel #openssf-sig-openvex](https://openssf.slack.com/archives/C05009RHCNT)
 
 ### 
 Quick Start
