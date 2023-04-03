@@ -1,4 +1,4 @@
-# **OSSF Project/WG Name**
+# **OpenVEX SIG**
 
 [Brief description of the initiative]
 
