@@ -1,6 +1,13 @@
 # **OpenVEX SIG**
 
-[Brief description of the initiative]
+The OpenSSF's OpenVEX Special Interest Group (SIG) is a group dedicated to the transparent sharing of vulnerability data through open formats, like VEX, so that participatants throughout the open source software supply chain have clear signals and better understanding of the impact of security vulnerabilities to the software and components they produce, depend upon, consumer, and deliver.
+
+<img align="right" src="https://github.com/ossf/OpenVEX/blob/main/OSSF-VEX.png" width="400" height="400">
+
+
+The group has two primary foci:
+- The maintenance and upkeep of the [OpenVEX](https://github.com/openvex) spec and tooling
+- Promotion of sharing of vulnerability infomration through formats such as VEX, evangelization and support transmitting VEX information throughout the open source ecosystem, working with industry groups, standards bodies, and tooling projects to promote universal use of VEX as a means to communicate affectedness of software to vulnerabilities. 
 
 
 ## 
@@ -58,10 +65,32 @@ Quick Start
 [TODO: Update this link to your specific CHARTER.md file]
 The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) outlines the scope and governance of our group activities.
 
+***Team Members***
 
-[OPTIONAL]
-*   Lead name 
-*   Co-Lead name
+*   Technical Lead name - Adolfo García Veytia (aka puerco)
+*   Evangelism Lead name - Jay White
+
+
+### SIG Maintainers
+- [Adolfo García Veytia, Chainguard](https://github.com/puerco)
+- [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
+- [Jay White, Microsoft](https://github.com/camaleon2016)
+
+
+
+### SIG Collaborators
+- [Rose Judge, VMWare](https://github.com/rnjudge)
+- [Art Manion, ANALYGENCE](https://github.com/zmanion)
+- [Isaac Hepworth, Google]](https://github.com/hepwori)
+- [Madison Oliver, GitHub](https://github.com/taladrane)
+- [Yotam Perkal, Rezilion](https://github.com/pyotam)
+- [Alex Goodman, Anchore](https://github.com/wagoodman)
+
+
+### SIG Contributors
+ - [Brandon Mitchell, IBM](https://github.com/sudo-bmitch)
+
+
 
 #
 **Intellectual Property**
