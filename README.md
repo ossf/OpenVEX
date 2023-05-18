@@ -1,9 +1,7 @@
 # **OpenVEX SIG**
-
-The OpenSSF's OpenVEX Special Interest Group (SIG) is a group dedicated to the transparent sharing of vulnerability data through open formats, like VEX, so that participatants throughout the open source software supply chain have clear signals and better understanding of the impact of security vulnerabilities to the software and components they produce, depend upon, consumer, and deliver.
-
 <img align="right" src="https://github.com/ossf/OpenVEX/blob/main/OSSF-VEX.png" width="400" height="400">
 
+The OpenSSF's OpenVEX Special Interest Group (SIG) is a group dedicated to the transparent sharing of vulnerability data through open formats, like VEX, so that participatants throughout the open source software supply chain have clear signals and better understanding of the impact of security vulnerabilities to the software and components they produce, depend upon, consumer, and deliver.
 
 The group has two primary foci:
 - The maintenance and upkeep of the [OpenVEX](https://github.com/openvex) spec and tooling
@@ -33,14 +31,12 @@ The group has two primary foci:
 ## 
 **Prior Work**
 
-
-
 *   List of prior and/or related projects
 
 # 
 **Get Involved**
 
-*   Official communications occur on the [ADD LINK TO YOUR WG MAILING LIST] (ex: https://lists.openssf.org/g/openssf-tac/topics).  \
+*   Official communications occur on the [OpenVEX SIG Mailing List] (https://lists.openssf.org/g/openssf-sig-openvex).
 [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
 *   [Slack Channel #openssf-sig-openvex](https://openssf.slack.com/archives/C05009RHCNT)
 
@@ -48,9 +44,11 @@ The group has two primary foci:
 Quick Start
 
 *   Areas that need contributions
-*   Build information if applicable
-*   Where to file issues
-*   Etc.
+- Contributions to the OpenVEX [spec](https://github.com/openvex/spec/blob/main/OPENVEX-SPEC.md)  or [vexctl](https://github.com/openvex/vexctl)
+- Participation in evangelizing VEX as a means to share affecteness of software to vulnerabilities
+- Participation in industry groups supporting VEX and SBOM
+*   Where to file [issues](https://github.com/ossf/OpenVEX/issues)
+
 
 ## 
 **Meeting times**
