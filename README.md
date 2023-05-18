@@ -79,7 +79,7 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 ### SIG Collaborators
 - [Rose Judge, VMWare](https://github.com/rnjudge)
 - [Art Manion, ANALYGENCE](https://github.com/zmanion)
-- [Isaac Hepworth, Google]](https://github.com/hepwori)
+- [Isaac Hepworth, Google](https://github.com/hepwori)
 - [Madison Oliver, GitHub](https://github.com/taladrane)
 - [Yotam Perkal, Rezilion](https://github.com/pyotam)
 - [Alex Goodman, Anchore](https://github.com/wagoodman)
