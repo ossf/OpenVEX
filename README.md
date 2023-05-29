@@ -40,11 +40,14 @@ The group has two primary foci:
 - Where to file [issues](https://github.com/ossf/OpenVEX/issues)
 
 
-## Meeting times
+## Meeting Times
 
-[TODO: Update with your WG meeting details]
-* Every other Monday @ [12:00 PDT / 21:00 CET](https://time.is/1900_29_May_2023_in_UTC/PT/Mexico_City/ET/CET/China_Standard_Time) (meetings are listed on the [OpenSSF's Public Calendar](https://calendar.google.com/calendar/u/0?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ))
-* [Meeting Minutes](https://docs.google.com/document/d/1uXQI1vI5_HyOvxHMexrnTY_ruBrynbPl5yOd1UM4g3A/edit#heading=h.yworp6sxzb6g)
+The OpenVEX Community meets every other Monday at [12:00 PDT / 21:00 CET](https://time.is/1900_29_May_2023_in_UTC/PT/Mexico_City/ET/CET/China_Standard_Time). Our meetings are listed on the [OpenSSF's Public Calendar](https://calendar.google.com/calendar/u/0?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+We alternate between a community/advocacy call and a technical call, all
+are welcome to both!
+
+* Zoom Link: https://zoom.us/j/99998407618
+* [Meeting Minutes](https://docs.google.com/document/d/1pf00WpoRxWeOJIRmwVvGnvAu-_eqJCKmnqFEn9q6xz8/edit)
 
 # Governance
 
@@ -61,7 +64,6 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 - [Adolfo García Veytia, Chainguard](https://github.com/puerco)
 - [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
 - [Jay White, Microsoft](https://github.com/camaleon2016)
-
 
 
 ### SIG Collaborators
