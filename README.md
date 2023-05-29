@@ -23,7 +23,7 @@ The group has two primary foci:
 
 ## Prior Work
 
-*   List of prior and/or related projects
+* List of prior and/or related projects
 
 # Get Involved
 
@@ -34,7 +34,7 @@ The group has two primary foci:
 ## Quick Start
 
 - Areas that need contributions
-    - Contributions to the OpenVEX [spec](https://github.com/openvex/spec/blob/main/OPENVEX-SPEC.md)  or [vexctl](https://github.com/openvex/vexctl)
+    - Contributions to the OpenVEX [spec](https://github.com/openvex/spec/blob/main/OPENVEX-SPEC.md) or [vexctl](https://github.com/openvex/vexctl)
     - Participation in evangelizing VEX as a means to share affecteness of software to vulnerabilities
     - Participation in industry groups supporting VEX and SBOM
 - Where to file [issues](https://github.com/ossf/OpenVEX/issues)
@@ -43,8 +43,8 @@ The group has two primary foci:
 ## Meeting times
 
 [TODO: Update with your WG meeting details]
-*   Every other Tuesday @ 10:00am PST (Link to calendar invite)
-*   [Meeting Minutes](https://docs.google.com/document/d/1uXQI1vI5_HyOvxHMexrnTY_ruBrynbPl5yOd1UM4g3A/edit#heading=h.yworp6sxzb6g)
+* Every other Monday @ [12:00 PDT / 21:00 CET](https://time.is/1900_29_May_2023_in_UTC/PT/Mexico_City/ET/CET/China_Standard_Time) (meetings are listed on the [OpenSSF's Public Calendar](https://calendar.google.com/calendar/u/0?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ))
+* [Meeting Minutes](https://docs.google.com/document/d/1uXQI1vI5_HyOvxHMexrnTY_ruBrynbPl5yOd1UM4g3A/edit#heading=h.yworp6sxzb6g)
 
 # Governance
 
@@ -57,6 +57,7 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 *   Evangelism Lead name - Jay White
 
 ### SIG Maintainers
+
 - [Adolfo García Veytia, Chainguard](https://github.com/puerco)
 - [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
 - [Jay White, Microsoft](https://github.com/camaleon2016)
@@ -64,6 +65,7 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 
 
 ### SIG Collaborators
+
 - [Rose Judge, VMWare](https://github.com/rnjudge)
 - [Art Manion, ANALYGENCE](https://github.com/zmanion)
 - [Isaac Hepworth, Google](https://github.com/hepwori)
@@ -73,7 +75,8 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 
 
 ### SIG Contributors
- - [Brandon Mitchell, IBM](https://github.com/sudo-bmitch)
+
+- [Brandon Mitchell, IBM](https://github.com/sudo-bmitch)
 
 
 # Intellectual Property
