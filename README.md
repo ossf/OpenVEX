@@ -1,4 +1,4 @@
-# **OpenVEX SIG**
+# OpenVEX SIG
 <img align="right" src="https://github.com/ossf/OpenVEX/blob/main/OSSF-VEX.png" width="400" height="400">
 
 The OpenSSF's OpenVEX Special Interest Group (SIG) is a group dedicated to the transparent sharing of vulnerability data through open formats, like VEX, so that participatants throughout the open source software supply chain have clear signals and better understanding of the impact of security vulnerabilities to the software and components they produce, depend upon, consumer, and deliver.
@@ -7,76 +7,67 @@ The group has two primary foci:
 - The maintenance and upkeep of the [OpenVEX](https://github.com/openvex) spec and tooling
 - Promotion of sharing of vulnerability infomration through formats such as VEX, evangelization and support transmitting VEX information throughout the open source ecosystem, working with industry groups, standards bodies, and tooling projects to promote universal use of VEX as a means to communicate affectedness of software to vulnerabilities. 
 
-
-## 
-**Motivation**
+## Motivation
 
 [Background / use cases of the problem to be solved]
 
-
-## 
-**Objective**
+## Objective
 
 [What is to be achieved with this initiative]
 
 [OKRs - OPTIONAL]
 
-
-## 
-**Scope**
+## Scope
 
 [What is in and out of scope]
 
+## Prior Work
 
-## 
-**Prior Work**
+* List of prior and/or related projects
 
-*   List of prior and/or related projects
-
-# 
-**Get Involved**
+# Get Involved
 
 *   Official communications occur on the [OpenVEX SIG Mailing List] (https://lists.openssf.org/g/openssf-sig-openvex).
 [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
 *   [Slack Channel #openssf-sig-openvex](https://openssf.slack.com/archives/C05009RHCNT)
 
-### 
-Quick Start
+## Quick Start
 
-*   Areas that need contributions
-- Contributions to the OpenVEX [spec](https://github.com/openvex/spec/blob/main/OPENVEX-SPEC.md)  or [vexctl](https://github.com/openvex/vexctl)
-- Participation in evangelizing VEX as a means to share affecteness of software to vulnerabilities
-- Participation in industry groups supporting VEX and SBOM
-*   Where to file [issues](https://github.com/ossf/OpenVEX/issues)
+- Areas that need contributions
+    - Contributions to the OpenVEX [spec](https://github.com/openvex/spec/blob/main/OPENVEX-SPEC.md) or [vexctl](https://github.com/openvex/vexctl)
+    - Participation in evangelizing VEX as a means to share affecteness of software to vulnerabilities
+    - Participation in industry groups supporting VEX and SBOM
+- Where to file [issues](https://github.com/ossf/OpenVEX/issues)
 
 
-## 
-**Meeting times**
+## Meeting Times
 
-[TODO: Update with your WG meeting details]
-*   Every other Tuesday @ 10:00am PST (Link to calendar invite)
-*   [Meeting Minutes](https://docs.google.com/document/d/1uXQI1vI5_HyOvxHMexrnTY_ruBrynbPl5yOd1UM4g3A/edit#heading=h.yworp6sxzb6g)
+The OpenVEX Community meets every other Monday at [12:00 PDT / 21:00 CET](https://time.is/1900_29_May_2023_in_UTC/PT/Mexico_City/ET/CET/China_Standard_Time). Our meetings are listed on the [OpenSSF's Public Calendar](https://calendar.google.com/calendar/u/0?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+We alternate between a community/advocacy call and a technical call, all
+are welcome to both!
 
-# 
-**Governance**
+* Zoom Link: https://zoom.us/j/99998407618
+* [Meeting Minutes](https://docs.google.com/document/d/1pf00WpoRxWeOJIRmwVvGnvAu-_eqJCKmnqFEn9q6xz8/edit)
+
+# Governance
 
 [TODO: Update this link to your specific CHARTER.md file]
 The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) outlines the scope and governance of our group activities.
 
-***Team Members***
+## Team Members
 
 *   Technical Lead name - Adolfo García Veytia (aka puerco)
 *   Evangelism Lead name - Jay White
 
-
 ### SIG Maintainers
+
 - [Adolfo García Veytia, Chainguard](https://github.com/puerco)
 - [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
 - [Jay White, Microsoft](https://github.com/camaleon2016)
 
 
-
 ### SIG Collaborators
+
 - [Rose Judge, VMWare](https://github.com/rnjudge)
 - [Art Manion, ANALYGENCE](https://github.com/zmanion)
 - [Isaac Hepworth, Google](https://github.com/hepwori)
@@ -86,12 +77,11 @@ The [CHARTER.md](https://github.com/ossf/project-template/blob/main/CHARTER.md) 
 
 
 ### SIG Contributors
- - [Brandon Mitchell, IBM](https://github.com/sudo-bmitch)
+
+- [Brandon Mitchell, IBM](https://github.com/sudo-bmitch)
 
 
-
-#
-**Intellectual Property**
+# Intellectual Property
 
 In accordance with the [OpenSSF Charter (PDF)](https://charter.openssf.org/), work produced by this group is licensed as follows:
 
